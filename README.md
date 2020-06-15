@@ -1,0 +1,2 @@
+# babelPlugin
+babel plugin test
