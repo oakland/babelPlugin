@@ -1,0 +1,26 @@
+{
+  "name": "babelplugin",
+  "version": "1.0.0",
+  "description": "babel plugin test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2"
+  },
+  "scripts": {
+    "build": "babel index.js --out-dir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oakland/babelPlugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oakland/babelPlugin/issues"
+  },
+  "homepage": "https://github.com/oakland/babelPlugin#readme"
+}
