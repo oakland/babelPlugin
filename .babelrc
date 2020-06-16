@@ -1,5 +1,5 @@
 {
   plugins: [
-    "./plugins/replaceBinaryExpression.js"
+    "./plugins/reverseName.js"
   ]
 }

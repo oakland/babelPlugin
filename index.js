@@ -1,5 +1,7 @@
-1 + 1 + 1; // 3
-1 + 2 - 3; // 0
-1 + 2 * 3; // 7
-(1 + 2) * 3; // 9
+const hello = 'hello';
 
+function test(param) {
+  return hello;
+}
+
+obj.prop.name;
